@@ -5,15 +5,17 @@
 # ORIGIN=origin
 # BRANCH=master
 
+# Declare variables
 source secret.key
 
 # Pull from Github
 git reset --hard
 git pull
 
+# Deobfuscate variables
 echo "Starting to deobfuscate files..."
 shopt -s nullglob
-for i in server.properties plugins/*/*.yml;
+for i in server.properties plugins/*/*.yml plugins/*/*.txt plugins/BreakerLandMenu/menus/*.menu;
 do
     for key in "${!secret_key[@]}"
     do 

@@ -30,11 +30,11 @@ Host: '$mysql_host'
 Port: '$mysql_port'
 ```
 
-Pour les identifiants de connexion pour les données spécifiques au serveur Survie, veuillez utiliser les variables suivantes :
+Pour les identifiants de connexion pour les données spécifiques au serveur Hub, veuillez utiliser les variables suivantes :
 ```bash
-User: '$mysql_user_survie'
-Password: '$mysql_password_survie'
-Database: '$mysql_database_survie'
+User: '$mysql_user_hub'
+Password: '$mysql_password_hub'
+Database: '$mysql_database_hub'
 ```
 
 Pour les identifiants de connexion pour les données communes à différents serveurs, veuillez utiliser les variables suivantes :

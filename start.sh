@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash 
 # Obfuscation script to pull from Github and replace $variables
 
 # Variables

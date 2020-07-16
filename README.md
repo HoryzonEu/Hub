@@ -12,7 +12,7 @@ Cependant tous les fichiers de configuration restent disponible à la modificati
 ## Variables
 
 ### Propriétés serveur
-Pour les identifiants du Bot Discord BreakerBot, veuillez utiliser les variables suivantes :
+Pour les identifiants des propriétés du serveur, veuillez utiliser les variables suivantes :
 ```bash
 Server name: '$server_name'
 Server ip: '$server_ip'
@@ -45,7 +45,7 @@ Database: '$mysql_database_proxy'
 ```
 
 ### Serveur SMTP
-Pour les identifiants du serveur SMTP pour l'e-mail **contact@breakerland.fr**, veuillez utiliser les variables suivantes :
+Pour les identifiants du serveur SMTP pour l'e-mail **contact@horyzon.eu**, veuillez utiliser les variables suivantes :
 ```bash
 Host: '$smtp_host'
 Port: '$smtp_port'
@@ -54,7 +54,7 @@ Password: '$smtp_password'
 ```
 
 ### Bot Discord
-Pour les identifiants du Bot Discord BreakerBot, veuillez utiliser les variables suivantes :
+Pour les identifiants du Bot Discord Horyzon, veuillez utiliser les variables suivantes :
 ```bash
 Invite: '$discord_invite'
 General channel: '$discord_channel_general'

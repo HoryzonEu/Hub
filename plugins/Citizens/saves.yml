@@ -1,0 +1,580 @@
+# Citizens NPC Storage
+
+last-created-npc-id: 24
+npc:
+  '6':
+    metadata:
+      cached-skin-uuid-name: actitium
+      cached-skin-uuid: 7d180027-f769-4674-be2d-b3db990b4598
+    name: Actitium
+    uuid: 42d8cfd3-a836-491d-89d7-2ee78144ff27
+    traits:
+      lookclose:
+        range: '5.0'
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': -10.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      spawned: true
+      type: PLAYER
+      waypoints:
+        linear:
+          cachePaths: false
+          cycle: true
+          points:
+            '0':
+              location:
+                world: hub
+                x: '10.0'
+                y: '80.0'
+                z: '-167.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '1':
+              location:
+                world: hub
+                x: '17.0'
+                y: '80.0'
+                z: '-169.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '2':
+              location:
+                world: hub
+                x: '26.0'
+                y: '80.0'
+                z: '-171.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '3':
+              location:
+                world: hub
+                x: '36.0'
+                y: '80.0'
+                z: '-173.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '4':
+              location:
+                world: hub
+                x: '44.0'
+                y: '80.0'
+                z: '-177.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '5':
+              location:
+                world: hub
+                x: '45.0'
+                y: '81.0'
+                z: '-186.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '6':
+              location:
+                world: hub
+                x: '44.0'
+                y: '81.0'
+                z: '-192.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '7':
+              location:
+                world: hub
+                x: '40.0'
+                y: '81.0'
+                z: '-198.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '8':
+              location:
+                world: hub
+                x: '36.0'
+                y: '81.0'
+                z: '-205.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '9':
+              location:
+                world: hub
+                x: '36.0'
+                y: '82.0'
+                z: '-209.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '10':
+              location:
+                world: hub
+                x: '36.0'
+                y: '82.0'
+                z: '-215.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '11':
+              location:
+                world: hub
+                x: '36.0'
+                y: '85.0'
+                z: '-221.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '12':
+              location:
+                world: hub
+                x: '36.0'
+                y: '85.0'
+                z: '-232.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '13':
+              location:
+                world: hub
+                x: '35.0'
+                y: '86.0'
+                z: '-241.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '14':
+              location:
+                world: hub
+                x: '35.0'
+                y: '85.0'
+                z: '-249.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '15':
+              location:
+                world: hub
+                x: '36.0'
+                y: '86.0'
+                z: '-255.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '16':
+              location:
+                world: hub
+                x: '37.0'
+                y: '88.0'
+                z: '-265.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '17':
+              location:
+                world: hub
+                x: '37.0'
+                y: '94.0'
+                z: '-274.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '18':
+              location:
+                world: hub
+                x: '40.0'
+                y: '97.0'
+                z: '-284.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '19':
+              location:
+                world: hub
+                x: '38.0'
+                y: '99.0'
+                z: '-293.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '20':
+              location:
+                world: hub
+                x: '27.0'
+                y: '100.0'
+                z: '-301.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '21':
+              location:
+                world: hub
+                x: '12.0'
+                y: '100.0'
+                z: '-301.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '22':
+              location:
+                world: hub
+                x: '0.0'
+                y: '98.0'
+                z: '-300.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '23':
+              location:
+                world: hub
+                x: '-13.0'
+                y: '95.0'
+                z: '-300.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '24':
+              location:
+                world: hub
+                x: '-20.0'
+                y: '93.0'
+                z: '-298.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '25':
+              location:
+                world: hub
+                x: '-27.0'
+                y: '92.0'
+                z: '-297.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '26':
+              location:
+                world: hub
+                x: '-36.0'
+                y: '92.0'
+                z: '-299.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '27':
+              location:
+                world: hub
+                x: '-49.0'
+                y: '90.0'
+                z: '-303.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '28':
+              location:
+                world: hub
+                x: '-57.0'
+                y: '90.0'
+                z: '-303.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '29':
+              location:
+                world: hub
+                x: '-67.0'
+                y: '90.0'
+                z: '-303.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '30':
+              location:
+                world: hub
+                x: '-78.0'
+                y: '90.0'
+                z: '-302.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '31':
+              location:
+                world: hub
+                x: '-84.0'
+                y: '92.0'
+                z: '-303.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '32':
+              location:
+                world: hub
+                x: '-93.0'
+                y: '92.0'
+                z: '-301.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '33':
+              location:
+                world: hub
+                x: '-99.0'
+                y: '92.0'
+                z: '-300.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '34':
+              location:
+                world: hub
+                x: '-99.0'
+                y: '90.0'
+                z: '-296.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '35':
+              location:
+                world: hub
+                x: '-92.0'
+                y: '86.0'
+                z: '-296.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '36':
+              location:
+                world: hub
+                x: '-85.0'
+                y: '83.0'
+                z: '-296.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '37':
+              location:
+                world: hub
+                x: '-85.0'
+                y: '80.0'
+                z: '-292.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '38':
+              location:
+                world: hub
+                x: '-88.0'
+                y: '78.0'
+                z: '-288.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '39':
+              location:
+                world: hub
+                x: '-91.0'
+                y: '76.0'
+                z: '-283.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '40':
+              location:
+                world: hub
+                x: '-90.0'
+                y: '78.0'
+                z: '-270.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '41':
+              location:
+                world: hub
+                x: '-93.0'
+                y: '82.0'
+                z: '-264.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '42':
+              location:
+                world: hub
+                x: '-96.0'
+                y: '86.0'
+                z: '-257.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '43':
+              location:
+                world: hub
+                x: '-100.0'
+                y: '89.0'
+                z: '-250.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '44':
+              location:
+                world: hub
+                x: '-106.0'
+                y: '90.0'
+                z: '-243.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '45':
+              location:
+                world: hub
+                x: '-103.0'
+                y: '90.0'
+                z: '-234.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '46':
+              location:
+                world: hub
+                x: '-95.0'
+                y: '88.0'
+                z: '-224.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '47':
+              location:
+                world: hub
+                x: '-92.0'
+                y: '87.0'
+                z: '-217.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '48':
+              location:
+                world: hub
+                x: '-87.0'
+                y: '87.0'
+                z: '-214.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '49':
+              location:
+                world: hub
+                x: '-81.0'
+                y: '83.0'
+                z: '-205.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '50':
+              location:
+                world: hub
+                x: '-75.0'
+                y: '83.0'
+                z: '-196.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '51':
+              location:
+                world: hub
+                x: '-68.0'
+                y: '82.0'
+                z: '-191.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '52':
+              location:
+                world: hub
+                x: '-58.0'
+                y: '77.0'
+                z: '-189.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '53':
+              location:
+                world: hub
+                x: '-46.0'
+                y: '76.0'
+                z: '-184.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '54':
+              location:
+                world: hub
+                x: '-41.0'
+                y: '80.0'
+                z: '-180.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '55':
+              location:
+                world: hub
+                x: '-37.0'
+                y: '83.0'
+                z: '-178.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '56':
+              location:
+                world: hub
+                x: '-25.0'
+                y: '84.0'
+                z: '-177.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '57':
+              location:
+                world: hub
+                x: '-12.0'
+                y: '84.0'
+                z: '-176.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '58':
+              location:
+                world: hub
+                x: '1.0'
+                y: '84.0'
+                z: '-167.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '59':
+              location:
+                world: hub
+                x: '1.0'
+                y: '84.0'
+                z: '-167.0'
+                yaw: '0.0'
+                pitch: '0.0'
+        provider: linear
+      location:
+        bodyYaw: 51.248245
+        world: hub
+        x: '38.7333'
+        y: '81.0'
+        z: '-173.4899'
+        yaw: '51.2482'
+        pitch: '0.0'
+      skintrait:
+        fetchDefaultSkin: true
+        signature: WDglS4cM5Pd0/9Q/HM0qG57EGllSu5zL0yYX0tCH8kiaqR9g5yxLlnEVAB276nqTMsoyJYitI2ZbCYVbgiggtSA5ZULDyMOSS0tD9oOpxl0lrC7HQ0CZEcltBy5z372zCbGxrGLtTx8v6mkmrxruYIpTCalTOrlnkNXtSaPC4uzN7EWc9j7Cfl2sa3kxCZtc3BGpaP08AkX2DsR380FHpxIKNqj9zjcGoERQY/jnbeqfz0J2rUe+HYn1KGOaQk2nxkdrz8vNqfcFI56qZoasP+Hsb34EtxJn2gfOQRZ4e7kiARgC1SBibGKno/Bt1d0g2PL9ZM4ihKBchYv53KaNWH6NsYDoMWY62kLqK+mZZXHu3MY5uCRRVcWHOWDfVWTbUTNgjXtSiwkWvClU6FC/fok7S9xR0Unt6DnybQ8tE7A6hVSSai6jxi05znUB1PrTflJfFO28QOJ+EYZWXPtxy/LVUHStPGLX56SX681WfH6B5Tx3ESOqd1Q83DwfzvJ+MDA0vIRRH/SSJZJlDDtOxoehmDyHmAlvM1ZTVv8GUmLA5ACfQnLY27aHP1Sy342tntMDc3WnZP79bzRek2pxNlVwmGMA/cHQg8HmWv4rK08pkuje24xUbd5rJt1xWeM0qHKyXjJm+bo8nFVXbp9mP3ZXUR0a0bufaP4cYWlTObE=
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTU5ODE2OTgyNTYxNywKICAicHJvZmlsZUlkIiA6ICI3ZDE4MDAyN2Y3Njk0Njc0YmUyZGIzZGI5OTBiNDU5OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBY3RpdGl1bSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81Y2I3MGRmYTU3YjExNGI1ZDU2MDdkOWI4Y2ZmY2Q3MGUxMzNiNTk4NjE5MjE2ZDlmOGE2YjYzM2I1YjgwZTc4IgogICAgfQogIH0KfQ==
+        updateSkins: false
+      controllable:
+        enabled: true
+        owner_required: false
+      owner:
+        owner: Stonix_Hrz
+        uuid: bcb6f199-daf8-447b-856c-b76748f3b510
+    traitnames: owner,scoreboardtrait,lookclose,spawned,inventory,location,waypoints,type,skintrait,controllable,mounttrait,equipment
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '23':
+    metadata:
+      cached-skin-uuid-name: _stonix
+      cached-skin-uuid: bcb6f199-daf8-447b-856c-b76748f3b510
+    name: _Stonix
+    uuid: 94f61f35-cc9f-44fe-a359-21dddd39cb48
+    traits:
+      spawned: true
+      lookclose:
+        range: '5.0'
+        enabled: false
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': -10.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      type: PLAYER
+      location:
+        bodyYaw: -89.294426
+        world: hub
+        x: '69.6368'
+        y: '125.0'
+        z: '19.7665'
+        yaw: '-89.2944'
+        pitch: '0.0'
+      skintrait:
+        fetchDefaultSkin: true
+        signature: URjveuwcnMYBgCYl6ZJrLq9yDghn+Zua3C/oZZKgcrS4nFn5ZS8bjfY0ToRPKjFF2ojFJug1OtgUqCU6SJI/X0E0/e7Vyf4BsSCVSG2rZToeu4UsbW9o5TLPghbn6zI+anykUd7yVQGzpcoW4MqOf110qxQqC//Uu2SWB6AcMDut5fai+Mg/HbQ0DWvZECW8lXZi2OdIk1yayaUpY4QoY9eKgoCok1M3QNnKg/+aV6z1ytPFA/rKCadz1wt+/UluyDXEYTOvOaMVJlFzkuCGOV/2CZ6//Hwi34o4d0edOuJ4n8W3GGWl7SYwLzEL8NLsdwcN6ZTd9nLWMMgl43KfQa9c1tIkTCOts9PobakbI8fL4k6DDBWVkzorZCw+faJ184+L7CTbf2luxJgFm2wexV2vN0fOrF2QRV3uvL33eFreRtmiH1kFmLdyo+CiK/jBBGEqbuNK4tBjT57Lo9anmneVKY76PeiMa5G/UHXCuCiKILNoAm6OLdkwrq5QOtDHxq50XQti6VIOuebQByjSWVNkTQJoZ+mzXAKzk/Oi9jpGjyPEJ+TcBGTwjCN7ShrpL8kGFIBuRm87gux6LPObioE04hpBxwismUDanM8e3Jht5dG9aBegc6PjCTAwnSay/x+n6okv4r5y/RmK2yJVnMPc0k4yTfxXXVNLTHGwbbM=
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTU5OTA2NTU4ODI0NiwKICAicHJvZmlsZUlkIiA6ICJiY2I2ZjE5OWRhZjg0NDdiODU2Y2I3Njc0OGYzYjUxMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJfU3Rvbml4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ2Y2E4MGYzODA1ZGE2MDBmNjczMzA1NGQ3ZGZhOWI2ZTQxNjI1MzViODA5ZTRjMzRkMmQyYzRmMzExNDY0NGYiCiAgICB9CiAgfQp9
+        updateSkins: false
+      controllable:
+        enabled: false
+        owner_required: false
+      owner:
+        owner: _Stonix
+        uuid: bcb6f199-daf8-447b-856c-b76748f3b510
+    traitnames: owner,spawned,scoreboardtrait,lookclose,location,inventory,type,skintrait,controllable,mounttrait,equipment
+    navigator:
+      speedmodifier: '5.0'
+      avoidwater: false
+      usedefaultstuckaction: true

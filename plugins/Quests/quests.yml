@@ -1,0 +1,23 @@
+quests:
+  custom1:
+    name: Ca mord
+    ask-message: Salut tu veux bien faire un concours de pêche avec moi ?
+    finish-message: Sniff j'ai perdu je vais le dire à ma maman
+    stages:
+      ordered:
+        '1':
+          fish-to-catch: 5
+          delay: 120
+    rewards:
+      items:
+      - ==: org.bukkit.inventory.ItemStack
+        v: 2567
+        type: SALMON
+        amount: 5
+    options:
+      allow-commands: true
+      allow-quitting: true
+      use-dungeonsxl-plugin: false
+      use-parties-plugin: true
+      share-progress-level: 1
+      require-same-quest: true

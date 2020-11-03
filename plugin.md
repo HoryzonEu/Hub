@@ -17,5 +17,5 @@
 |       VoxelSniper      |         6.1.2         | https://www.spigotmc.org/resources/voxelsniper.76791/ |
 |       ViaBackwards     |          3.2.0        | https://www.spigotmc.org/resources/viabackwards.27448/ |
 |       ViaVersion       |          3.2.0        | https://www.spigotmc.org/resources/viaversion.19254/ |
-|        WorldEdit       |  7.2.0-SNAPSHOT+5093  | https://enginehub.org/worldedit/#downloads |
-|        WorldGuard      |  7.2.0-SNAPSHOT+5093  | https://enginehub.org/worldguard/#downloads |
+|        WorldEdit       |          7.3.0        | https://enginehub.org/worldedit/#downloads |
+|        WorldGuard      |          7.0.5        | https://enginehub.org/worldguard/#downloads |

@@ -14,9 +14,9 @@ verbose: false
 config-version: 20
 settings:
   load-permissions-yml-before-plugins: true
-  bungee-online-mode: false
+  bungee-online-mode: true
   console-has-all-permissions: false
-  region-file-cache-size: 512
+  region-file-cache-size: 256
   incoming-packet-spam-threshold: 300
   save-player-data: true
   use-alternative-luck-formula: false
@@ -59,17 +59,17 @@ messages:
     flying-vehicle: Il n'est pas autorisé de voler
 timings:
   enabled: false
-  verbose: true
+  verbose: false
   server-name-privacy: false
   hidden-config-entries:
   - database
   - settings.bungeecord-addresses
   history-interval: 300
   history-length: 3600
-  server-name: Unknown Server
+  server-name: Horyzon Hub
 world-settings:
   default:
-    delay-chunk-unloads-by: 500s
+    delay-chunk-unloads-by: 0s
     optimize-explosions: false
     disable-teleportation-suffocation-check: false
     fixed-chunk-inhabited-time: -1

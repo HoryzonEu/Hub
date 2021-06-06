@@ -4,6 +4,7 @@
 |          asCMD         |          2.2          | https://www.spigotmc.org/resources/ascmd-armor-stand-command-great-for-lobby-servers.41127/ |
 |       BeautyQuests     |          0.18         | https://www.spigotmc.org/resources/beautyquests.39255/ |
 |   BreakerLandConverter |          1.0          |  |
+|     BreakerLandMenu    |           1.1         |  |
 |BungeeTabListPlus_Bukkit|         3.4.1         | https://www.spigotmc.org/resources/bungeetablistplus.313/ |
 |         Citizens       |         2.0.27        | https://www.spigotmc.org/resources/citizens.13811/ |
 |        DiscordSRV      |         1.19.1        | https://snapshot.discordsrv.com/ |

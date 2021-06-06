@@ -15,6 +15,7 @@
 |      IllegalStack      |         2.2.0e        | https://www.spigotmc.org/resources/dupe-fixes-illegal-stack-remover.44411/ |
 |    LuckPerms-Bukkit    |         5.1.26        | https://www.spigotmc.org/resources/luckperms-an-advanced-permissions-plugin.28140/ |
 |         Quests         |         4.0.0         | https://www.spigotmc.org/resources/quests.3711/ |
+|          Vault         |          1.7.3        | https://www.spigotmc.org/resources/vault.34315/ |
 |       VoxelSniper      |         6.1.2         | https://www.spigotmc.org/resources/voxelsniper.76791/ |
 |        WorldEdit       |          7.3.0        | https://enginehub.org/worldedit/#downloads |
 |        WorldGuard      |          7.0.5        | https://enginehub.org/worldguard/#downloads |

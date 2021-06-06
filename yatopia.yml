@@ -6,6 +6,8 @@ verbose: false
 brand-name: Horyzon
 config-version: 1
 settings:
+  fix-protocollib: true
+  log-player-login-location: true
   pistonPushLimit: 12
   fixFallDistance: true
   disableEntityStuckChecks: true
@@ -15,6 +17,10 @@ settings:
     simplerVillagerBehavior: true
     villagersHideAtNight: false
   checks:
+    moved-quickly: true
+    moved-wrongly: true
+    vehicle-moved-quickly: true
+    vehicle-moved-wrongly: true
     flight: false
     vehicle-flight: false
   intervals:
@@ -23,6 +29,8 @@ settings:
     location: true
     enter-block: true
     tick: true
+  tick:
+    enchanting-tables: false
 worlds:
   default:
     use-block-distance-in-portal-search-radius: false

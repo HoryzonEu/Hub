@@ -5,14 +5,20 @@
 # If you need help with the configuration or have any questions related to Paper,
 # join us in our Discord or IRC channel.
 # 
-# Discord: https://paperdiscord.emc.gs
-# IRC: #paper @ irc.spi.gt ( http://irc.spi.gt/iris/?channels=paper )
+# Discord: https://discord.gg/papermc
+# IRC: #paper @ irc.esper.net ( https://webchat.esper.net/?channels=paper ) 
 # Website: https://papermc.io/ 
 # Docs: https://paper.readthedocs.org/ 
 
+use-display-name-in-quit-message: false
 verbose: false
 config-version: 20
 settings:
+  max-joins-per-tick: 3
+  track-plugin-scoreboards: false
+  fix-entity-position-desync: true
+  player-auto-save-rate: -1
+  max-player-auto-save-per-tick: -1
   load-permissions-yml-before-plugins: true
   bungee-online-mode: true
   console-has-all-permissions: false
@@ -35,12 +41,15 @@ settings:
     early-warning-every: 5000
     early-warning-delay: 10000
   spam-limiter:
+    recipe-spam-increment: 1
+    recipe-spam-limit: 20
     tab-spam-increment: 1
     tab-spam-limit: 500
   book-size:
     page-max: 2560
     total-multiplier: 0.98
   unsupported-settings:
+    allow-headless-pistons: false
     allow-permanent-block-break-exploits: false
     allow-piston-duplication: false
     allow-permanent-block-break-exploits-readme: This setting controls if players
@@ -49,6 +58,11 @@ settings:
     allow-piston-duplication-readme: This setting controls if player should be able
       to use TNT duplication, but this also allows duplicating carpet, rails and potentially
       other items
+    allow-headless-pistons-readme: This setting controls if players should be able
+      to create headless pistons.
+  console:
+    enable-brigadier-highlighting: false
+    enable-brigadier-completions: false
 messages:
   no-permission: '&cVous n''avez pas la permission d''exécuter cette commande.'
   kick:
@@ -64,6 +78,7 @@ timings:
   hidden-config-entries:
   - database
   - settings.bungeecord-addresses
+  - settings.velocity-support.secret
   history-interval: 300
   history-length: 3600
   server-name: Horyzon Hub
@@ -202,3 +217,5 @@ world-settings:
       flat-bedrock: false
     squid-spawn-height:
       maximum: 0.0
+    projectile-load-save-per-chunk-limit: 0
+    fix-climbing-bypassing-cramming-rule: true
